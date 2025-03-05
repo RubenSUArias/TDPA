@@ -1,10 +1,19 @@
 # Análisis de flujo vehicular con k-means
+!imagehttps://github.com/RubenSUArias/TDPA/blob/main/Resultados.png
 El flujo vehicular es registrado y reportado por el Instituto Mexicano del Transporte, como datos públicos. 
 En el presente trabajo, se analizan dichos datos para identificar clusters de comportamiento sil¡milar en los patrones de flujo vehicular. 
+Y se visualizan los datos georreferenciandolos con geopandas.
 
 # Contenido 
 -Archivo TDPA.py con todo el proceso de análisis en python. 
 -Registro de flujo vehicular
+
+# Librerías 
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-geopandas
 # Proceso 
 
 - Lectura de datos
